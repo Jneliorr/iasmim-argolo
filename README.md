@@ -18,6 +18,6 @@ npm run preview
 
 Conteúdo e links: `src/content.ts`. Estilos responsivos: `src/styles.css`. Fotografias fornecidas pela cliente: `public/images/`.
 
-As áreas de atendimento foram extraídas do texto da fotografia fornecida. Dicas gerais de alimentação possuem referência ao Guia Alimentar do Ministério da Saúde. Endereço, telefone, CRN, horários e avaliações não foram disponibilizados em formato verificável; não foram inventados. Os botões de agendamento direcionam ao Instagram informado e a localização ao link original do Google Maps.
+As áreas de atendimento foram extraídas do texto da fotografia fornecida. Dicas gerais de alimentação possuem referência ao Guia Alimentar do Ministério da Saúde. Os botões de agendamento direcionam ao Instagram informado.
 
-A seção de localização usa uma ilustração decorativa de mapa, sem representar ruas ou coordenadas reais. O link abre o local fornecido no Google Maps.
+A localização utiliza o código oficial de incorporação obtido em Compartilhar > Incorporar um mapa no Google Maps. O endereço e os trechos de três avaliações reais foram conferidos no perfil público em 27/10/2026. A nota e a quantidade de avaliações representam essa consulta e não se atualizam automaticamente. Os cartões identificam os autores, sinalizam que são trechos e levam ao perfil original. CRN e horários não foram adicionados.

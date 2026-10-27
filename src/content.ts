@@ -2,7 +2,22 @@ export const business = {
   name: 'Iasmin Argolo',
   instagram: 'https://www.instagram.com/argolonutri/',
   maps: 'https://maps.app.goo.gl/qwCWiLByr2f7DSo59',
+  address: 'Estr. dos Menezes, 850 · Sala 1208 · Alcântara, São Gonçalo – RJ · CEP 24451-230',
+  building: 'Parque das Águas Empresarial',
+  mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.392068599341!2d-43.010607400000005!3d-22.8249797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99916b8720c491%3A0x5763fe28e13eaf44!2sNutricionista%20Iasmin%20Argolo!5e0!3m2!1spt-BR!2sbr!4v1793141316676!5m2!1spt-BR!2sbr',
   guide: 'https://bvsms.saude.gov.br/bvs/folder/dez_passos_alimentacao_adequada_saudavel.pdf',
+};
+// Trechos transcritos do perfil público no Google Maps em 27/10/2026.
+// A seleção é estática; as avaliações completas e atuais estão no perfil original.
+export const googleReviews = {
+  rating: '5,0',
+  count: 13,
+  checkedAt: '27/10/2026',
+  items: [
+    { author: 'Marcia Souza', initials: 'MS', stars: 5, text: 'Excelente profissional! A Iasmin é muito atenciosa, dedicada e demonstra muito conhecimento no que faz.' },
+    { author: 'João Victor', initials: 'JV', stars: 5, text: 'Desde o início, me orientou de forma muito atenciosa, profissional e sem deixar a alimentação algo difícil ou impossível de seguir.' },
+    { author: 'Neu Stos', initials: 'NS', stars: 5, text: 'Se tivesse mais estrelas com certeza eu daria. A melhor nutricionista que eu já tive.' },
+  ],
 };
 export const services = [
   { number: '01', title: 'Emagrecimento', text: 'Acompanhamento nutricional para cuidar da alimentação e construir hábitos alinhados aos seus objetivos.', icon: 'leaf' },
