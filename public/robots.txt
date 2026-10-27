@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iasmin-argolo-nutricao.famousvenus34.chatgpt.site/sitemap.xml
